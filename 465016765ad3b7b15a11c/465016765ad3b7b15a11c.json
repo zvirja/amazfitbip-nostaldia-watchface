@@ -97,48 +97,7 @@
                 "X": 162,
                 "Y": 151
             },
-            "ImageIndexOn": 54
-        }
-    },
-    "Battery": {
-        "Text": {
-            "TopLeftX": 16,
-            "TopLeftY": 146,
-            "BottomRightX": 52,
-            "BottomRightY": 166,
-            "Alignment": "BottomRight",
-            "Spacing": 2,
-            "ImageIndex": 27,
-            "ImagesCount": 10
-        },
-        "Scale": {
-            "StartImageIndex": 48,
-            "Segments": [
-                {
-                    "X": 6,
-                    "Y": 163
-                },
-                {
-                    "X": 6,
-                    "Y": 160
-                },
-                {
-                    "X": 6,
-                    "Y": 157
-                },
-                {
-                    "X": 6,
-                    "Y": 154
-                },
-                {
-                    "X": 6,
-                    "Y": 151
-                },
-                {
-                    "X": 6,
-                    "Y": 148
-                }
-            ]
+            "ImageIndexOn": 48
         }
     },
     "Activity": {
@@ -165,6 +124,50 @@
             },
             "SuffixImageIndex": 25,
             "DecimalPointImageIndex": 26
+        }
+    },
+    "Weather": {
+        "Icon": {
+            "CustomIcon": {
+                "X": 5,
+                "Y": 144,
+                "ImageIndex": 49,
+                "ImagesCount": 26
+            }
+        },
+        "Temperature": {
+            "Today": {
+                "Separate": {
+                    "Day": {
+                        "Number": {
+                            "TopLeftX": 32,
+                            "TopLeftY": 139,
+                            "BottomRightX": 69,
+                            "BottomRightY": 154,
+                            "Alignment": "TopRight",
+                            "Spacing": 2,
+                            "ImageIndex": 15,
+                            "ImagesCount": 10
+                        },
+                        "MinusImageIndex": 76,
+                        "DegreesImageIndex": 75
+                    },
+                    "Night": {
+                        "Number": {
+                            "TopLeftX": 24,
+                            "TopLeftY": 157,
+                            "BottomRightX": 61,
+                            "BottomRightY": 172,
+                            "Alignment": "TopRight",
+                            "Spacing": 2,
+                            "ImageIndex": 15,
+                            "ImagesCount": 10
+                        },
+                        "MinusImageIndex": 76,
+                        "DegreesImageIndex": 75
+                    }
+                }
+            }
         }
     },
     "StepsProgress": {

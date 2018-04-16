@@ -5,7 +5,8 @@ Based on the Nostalgia watch face ([link](https://amazfitwatchfaces.com/bip/view
 - goal icon is now shown only if goal is achieved
 - switched to AM/PM mode
 - moved bell icon under the AM/PM
-- add DND icon at old place of bell icon.
+- add DND icon at old place of bell icon
+- show weather instead of battery status
 
 
 # Preview

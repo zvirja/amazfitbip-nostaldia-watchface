@@ -13,5 +13,5 @@ Based on the Nostalgia watch face ([link](https://amazfitwatchfaces.com/bip/view
 ![preview](https://github.com/zvirja/amazfitbip-nostaldia-watchface/raw/master/preview.png)
 
 # Useful resources
-- [Online theme editor](https://v1ack.github.io/watchfaceEditor/)
+- [Online watchface editor](https://v1ack.github.io/watchfaceEditor/)
 - [Amazfit Bip Tools](https://bitbucket.org/valeronm/amazfitbiptools/downloads/)

@@ -1,4 +1,4 @@
-# Amazfit bip Nostalgia watch face
+# Amazfit Bip Nostalgia watch face
 
 Based on the Nostalgia watch face ([link](https://amazfitwatchfaces.com/bip/view/?id=5327)). Contains a few fixes and enhancements:
 - fixed positioning issue when distance reaches 10km

@@ -100,6 +100,14 @@
             "ImageIndexOn": 48
         }
     },
+    "Battery": {
+        "Icon": {
+            "X": 135,
+            "Y": 100,
+            "ImageIndex": 77,
+            "ImagesCount": 4
+        }
+    },
     "Activity": {
         "Steps": {
             "TopLeftX": 17,

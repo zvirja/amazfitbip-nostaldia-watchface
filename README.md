@@ -7,6 +7,7 @@ Based on the Nostalgia watch face ([link](https://amazfitwatchfaces.com/bip/view
 - moved bell icon under the AM/PM
 - add DND icon at old place of bell icon
 - show weather instead of battery status
+- show low battery indicator
 
 
 # Preview

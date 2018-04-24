@@ -8,6 +8,7 @@ Based on the Nostalgia watch face ([link](https://amazfitwatchfaces.com/bip/view
 - add DND icon at old place of bell icon
 - show weather instead of battery status
 - show low battery indicator
+- show dotted Bluetooth icon when inactive
 
 
 # Preview

@@ -162,19 +162,33 @@
                     },
                     "Night": {
                         "Number": {
-                            "TopLeftX": 24,
-                            "TopLeftY": 157,
-                            "BottomRightX": 61,
-                            "BottomRightY": 172,
-                            "Alignment": "TopRight",
-                            "Spacing": 2,
-                            "ImageIndex": 15,
+                            "TopLeftX": 74,
+                            "TopLeftY": 139,
+                            "BottomRightX": 78,
+                            "BottomRightY": 140,
+                            "Alignment": "TopLeft",
+                            "Spacing": 0,
+                            "ImageIndex": 83,
                             "ImagesCount": 10
                         },
-                        "MinusImageIndex": 76,
-                        "DegreesImageIndex": 75
+                        "MinusImageIndex": 83,
+                        "DegreesImageIndex": 83
                     }
                 }
+            },
+            "Current": {
+                "Number": {
+                    "TopLeftX": 24,
+                    "TopLeftY": 157,
+                    "BottomRightX": 61,
+                    "BottomRightY": 172,
+                    "Alignment": "TopRight",
+                    "Spacing": 2,
+                    "ImageIndex": 15,
+                    "ImagesCount": 10
+                },
+                "MinusImageIndex": 76,
+                "DegreesImageIndex": 75
             }
         }
     },
